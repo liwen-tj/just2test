@@ -98,7 +98,7 @@
         "name": "anyone",
         "description": "Anyone",
         "users": [],
-        "commands": [ "/self-assign", "/vote" ]
+        "commands": [ "/self-assign", "/vote", "/add-contributing-guide" ]
       }
     ]
   },
@@ -137,6 +137,9 @@
    "version": 1
   },
   "vote": {
+    "version": 1
+  },
+  "contributing_guide": {
     "version": 1
   }
 }
